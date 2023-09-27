@@ -1,1 +1,1 @@
-this directory contains an answer about what does the command uname do 
+answer to what the command uname prints
